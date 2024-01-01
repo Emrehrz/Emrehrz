@@ -1,5 +1,5 @@
 - 👋 **Hi, I’m @Emrehrz** 
-- 👀 **I’m interested in *front-end web development*, *web3.0* and more...**
+- 👀 **I’m interested in *web development*, *web3.0*, *cloud* and more...**
 - 🌱 **I’m currently learning Vuejs, Javascript and more about web development.**
 - 📫 **How to reach me horuzemre3@gmail.com**
 
