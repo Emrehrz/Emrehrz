@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m @Emrehrz** 
 - 👀 **I’m interested in *web development*, *web3.0*, *cloud* and more...**
-- 🌱 **I’m currently learning Vuejs, Javascript and more about web development.**
+- 🌱 **I’m currently learning modern web technologies and cloud computing.**
 - 📫 **How to reach me horuzemre3@gmail.com**
 
 
