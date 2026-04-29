@@ -18,7 +18,7 @@ I am a product-focused engineer who translates complex business problems into sc
 
 ### 📈 Featured Projects
 * **[fitmeup](https://fitmeup.com.tr)** - *Co-Founder & Lead Developer* | B2B SaaS platform with robust API contracts and rapid Al-assisted iteration.
-* **[Duygu-AI]** - *Semantic Search Engine* | Built an AI-driven recommendation system utilizing 384-dimensional embeddings and AWS infrastructure.
-* **[Fit-Vision]** - *Computer Vision pipeline* | Anthropometric measurement analysis using OpenCV and NumPy.
+* **[Duygu-AI](https://duygu-ai.vercel.app)** - *Semantic Search Engine* | Built an AI-driven recommendation system utilizing 384-dimensional embeddings and AWS infrastructure.
+* **[Fit-Vision](https://github.com/Emrehrz/fit-vision)** - *Computer Vision pipeline* | Anthropometric measurement analysis using OpenCV and NumPy.
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/emre-horuz) | horuzemre3@gmail.com
